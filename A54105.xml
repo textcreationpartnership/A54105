@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief account of the province of Pennsilvania in America lately granted under the great seal of England to William Penn, &amp;c.</title>
+            <author>Penn, William, 1644-1718.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54105</idno><idno type="EEBO-CITATION">14990687</idno>
+  <idno type="VID">103043</idno>
+  <idno type="EEBO-PROQUEST">2240910960</idno>
+  
+            <idno type="STC">Wing P1256</idno>
+            <idno type="STC">ESTC R35101</idno>
+            <idno type="OCLC">14990687</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.  Navigations series.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54105)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103043)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief account of the province of Pennsilvania in America lately granted under the great seal of England to William Penn, &amp;c.</title>
+                  <author>Penn, William, 1644-1718.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: William Penn.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Pennsylvania --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="colonial_prospectus">
+            <pb facs="tcp:103043:1"/>
+            <head>A Brief Account of the Province of <hi>Pennsilvania</hi> in <hi>America,</hi> lately granted under the Great Seal of <hi>England</hi> to <hi>William Penn,</hi> &amp;c.</head>
+            <p>THe King having been favourably pleased after a long Solicitation, in Right of my Fathers Services, and a considerable part of his Estate, to confer and settle upon me, and my Heirs, a Tract of Land in <hi>America,</hi> by the name of <hi>Pennsylvania;</hi> with the powers requisite to the well government thereof; I thought good to publish this abreviated account of the former Relation, as less troublesom to Send or Read, for their Satisfa<g ref="char:EOLhyphen"/>ction, that are soberly desirous and resolved for those parts of the World.</p>
+            <div type="part">
+               <head>
+                  <hi>I.</hi> Something of the Place.</head>
+               <p>The Place lies 600 Miles nearer the <hi>Sun</hi> than <hi>England,</hi> for <hi>England</hi> begins at the 50th. Degree and ten Mi<g ref="char:EOLhyphen"/>nutes of <hi>North</hi> Latitude, and this place begins at 40. which is about the Latitude of <hi>Naples</hi> in <hi>Italy,</hi> or <hi>Mom<g ref="char:EOLhyphen"/>pellier</hi> in <hi>France:</hi> I shall say little in its praise to excite desires in any; whatever I could truly write as to the Soil, Air and Water, this shall satisfie me, that by the Blessing of God, and the Honesty and Industry of man, it may be a good and Fruitful Land.</p>
+               <p>For Navigation, it is said to have two Conveniencies, the one by lying Ninescore Miles upon <hi>Delaware</hi> River, that is to say, about 70 Miles, before we come to the Falls, where a Vessel of 200 Tuns may Sail, (and some Creeks and small Harbours in that distance, where Ships may come nearer than the Rivers in the Country) and above the Falls for Boats, the other Convenience is through <hi>Chespapeak-Bay,</hi> the head falling within this La<g ref="char:EOLhyphen"/>titude.</p>
+               <p>For Timber &amp; other Wood, there is Variety for the use of man, as <hi>Oak, Chesnut, Wallnut, Popler, Cedar, Beech,</hi> &amp;c.</p>
+               <p>For <hi>Fowl, Fish</hi> and <hi>Wild Deer,</hi> they are reported to be plentiful in those parts, and <hi>English</hi> Provision grows there, and is to be had at reasonable Rates: The Commodities that the Countrey is thought to be capable of, are <hi>Silk, Flax, Hemp, Wine, Sider, Wood, Madder, Liquorish, Tobacco, Potashes</hi> and <hi>Iron;</hi> and it doth actually produce <hi>Hides, Tallow, Pipestaves, Beef, Pork, Sheep, Wool, Corn,</hi> as <hi>Wheat, Barly, Rye,</hi> and also <hi>Furrs,</hi> as your <hi>Beaver, Peltree, Mincks, Racoons, Martins,</hi> and such like; store of which is to be found among the <hi>Indians,</hi> that are profitable Commodities in <hi>Europe.</hi>
+               </p>
+               <p>The way of Trading in those Countries, is thus, they send to the <hi>Southern</hi> Plantations, <hi>Corn, Beef, Pork, Fish,</hi> and <hi>Pipstaves,</hi> and take their Growth and bring for <hi>England,</hi> and return with <hi>English</hi> Goods to their own Countrey; their <hi>Furrs</hi> they bring for <hi>England,</hi> and either sell them here, or carry them out again to other parts of <hi>Europe,</hi> where they will yield a better price: And for those that will follow Merchandize and Navi<g ref="char:EOLhyphen"/>gation, there is conveniency, and <hi>Timber</hi> sufficient for Shipping.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>II.</hi> The Constitutions.</head>
+               <p>For the Constitution of the Countrey, the Patent shows. <hi>First, That the People and Governour have a</hi> Le<g ref="char:EOLhyphen"/>gislative <hi>Power; so that no Law can be made, nor Money raised, but by the peoples consent.</hi>
+               </p>
+               <p n="2">2dly. <hi>That the Rights and Freedoms of</hi> England (the best and largest in <hi>Europe) shall be in force there.</hi>
+               </p>
+               <p n="3">3dly. <hi>That making no Law against Allegiance</hi> (which should we, twere by the Law of <hi>England</hi> void of it self that Moment) <hi>we may Enact what Laws we please for the Good, Prosperity and Security of the</hi> said Province.</p>
+               <p n="4">4thly. That so soon as any are Ingaged with me, we shall begin a Scheam or Draught together, such as shall give Ample Testimony of my sincere Inclinations to Encourage Planters, and settle a Free, Just and In<g ref="char:EOLhyphen"/>dustrious <hi>Colony</hi> there.</p>
+            </div>
+            <div type="part">
+               <head>III. The Conditions.</head>
+               <p>My Conditions will relate to three sorts of People. <hi>1st.</hi> Those that will buy. <hi>2dly.</hi> Those that take up Land upon Rent. <hi>3dly.</hi> Servants. To the <hi>first,</hi> The shares I sell shall be certain, as to number of Acres; that is to say, every one shall contain five thousand Acres, free from any <hi>Indian</hi> Incumbrance, the Price a Hundred Pounds, and for the Quit Rent but one <hi>English</hi> Shilling, or the value of it yearly for a hundred Acres, which such as will may now or hereafter buy of to an Inconsiderable matter; but as I hold by a small Rent of the King, so all must hold of me by some Rent, for their own Security, and the said Quit Rent not to be paid till <hi>1684.</hi> Or such as can only reach to small parcels, may ten of them buy, each <hi>500</hi> Acres, or any other part of a share, so they be added together to make a Township. To the <hi>second</hi> sort that take up Land upon Rent, they shall have liberty so to do, paying yearly one Penny <hi>per</hi> Acre, not exceeding two hundred Acres. To the <hi>third</hi> sort, to wit, Servants that are carried over, fifty Acres shall be allowed to the Master for every Head, and fifty Acres to every Servant when their time is expired, as well Women as Men: And because some Ingage with me that may not be disposed to go, it were very advisable for every four Sharers to send an Overseer, which would well pay the Cost.</p>
+               <p>The Divident may be thus, if the Persons concern'd please, a Tract of Land shall be survey'd; say fifty thousand Acres to a hundred Adventurers, in which some of the best shall be set out for Town, or Cities, and there shall be so much ground alloted to each in those Towns as may maintain some Cattle, and produce some Corn: Then the Re<g ref="char:EOLhyphen"/>mainder of the fifty thousand Acres shall be shared among the said Adventurers, whereby every Adventurer will have a considerable quantity of Land together; likewise every one a proportion by a Navigable River, and then backward into the Countrey The manner of Divident I shall not be strict in; we can but speak roughly of the matter here, but let men Skilful in Plantations be consulted, and I shall leave it to the Majority of Votes among the Adventurers when it shall please God we come there, how to fix to their own content.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>IV.</hi> These Persons that Providence seems to have most fitted for Plantations, are</head>
+               <p n="1">1st. Industrious Husbandmen, and day Labourers, that are hardly able (with extream Labour) to main<g ref="char:EOLhyphen"/>tain their Families and Portion their Children.</p>
+               <p n="2">2dly, Laborious Handicrafts, especially Carpenters, Masons, Smiths, Weavers, Taylors, Tanners, Shoe-makers, Ship-wrights, <hi>&amp;c.</hi> where they may be spared, or are low in the World; and as they shall want no en<g ref="char:EOLhyphen"/>couragement, so their Labour is worth more there than here, and their Provision Cheaper.</p>
+               <p n="3">3dly. A Plantation seems a fit place for those Ingenious Spirits, that being low in the world, are much Clog'd and Oppressed about a Livelyhood, for the means of Subsisting being easie there, they may have time and opportunity to gratifie their Inclinations, and thereby improve Science and help Nurseries of People.</p>
+               <pb facs="tcp:103043:2"/>
+               <p n="4">4thly. A fourth sort of men to whom a Plantation would be proper, takes in those that are younger Brothers of small Inheritances; yet because they would live in sight of their Kindred in some proportion to their Quality, and can't do it without a Labour that looks like Farming; their Condition is too straight for them, and, if married, their Children are often too numerous for the Estate, and are frequently brought up to no Trades, but are a kind of hangers on, or retainers to the Elder Brothers Table and Charity; which is a mis<g ref="char:EOLhyphen"/>chief, as in it self to be lamented, so here to be remedied; for Land they have next to nothing, which (with moderate Labour) produces Plenty of all things necessary for Life, and such an Increase as by Traffique may supply them with all Conveniencies.</p>
+               <p>Lastly, there are another sort of persons not only fit for, but necessary in Plantations; and that is, men of universal Spirits, that have an eye to the good of Posterity, and that both understand and delight to promote good Discipline and just Government among a plain and well-intending people; such Persons may find room in <hi>Colonies</hi> for their good Counsel and Contrivance, who are shut out from being of much use or service to great Nations, under settled Customs.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>V.</hi> The Journey and its Appurtinances, and what is to be done there at first coming</head>
+               <p>Next let us see, what is fit for the journey and place, when there, and also what may be the Charge of the Voyage, and what is to be expected and done there at first That such as incline to go may not be to seek here, or brought under any disappointment there, the Goods fit to take with them for use, or sell for profit, are all sorts of Apparel, and Utensils for Husbandry and Building, and Houshold-stuff. And because I know how much people are apt to fancy things beyond what they are, and that imaginations are great flatterers of the minds of men: to the end that none may delude themselves with an expectation of an immediate amend<g ref="char:EOLhyphen"/>ment of their Conditions; so soon as it shall please God they arrive there, I would have them understand, That <hi>they must look for a Winter before a Summer comes;</hi> and they must be willing to be two or three years without some of the Conveniencies they enjoy at home: And yet I must needs say, That <hi>America</hi> is another thing than it was at the first Plantation of <hi>Virginia</hi> and <hi>New-England;</hi> for there is better Accomodation, and <hi>English</hi> Provisions are to be had at easier rates. However I am inclin'd to set down particulars, as near as those inform me that know the place, and have been Planters both in that, and in the neighbouring <hi>Colonies.</hi>
+               </p>
+               <p n="1">1st. The passage will come for Masters and Mistresses to about five Pounds ten Shillings a Head, for Ser<g ref="char:EOLhyphen"/>vants five Pounds a Head, and for Children under seven years of age fifty shillings, except they suck, then nothing.</p>
+               <p>Next being (by the Mercy of God) safely Arrived in <hi>September</hi> or <hi>October,</hi> two men may clear as much Ground by Spring (when they set the Corn of that Country) as will bring in that time twelve Month for<g ref="char:EOLhyphen"/>ty Barrels, which amounts to two Hundred Bushels, which makes twenty five Quarters of Corn; so that the first year they must buy Corn, which is usually very plentiful: They may so soon as they come, buy Cowes, more or less, as they want, or are able, which are to be had at easie Rates; For Swine, they are plentiful and Cheap, these will quickly Increase to a Stock, so that after the first year, what with the Poorer sort, sometimes labouring to others; and the more able Fishing, Fowling, and sometime buying, they may do very well, till their own Stocks are sufficient to supply them and their Families, which will quickly be and to spare, if they follow the <hi>English</hi> Husbandry, as they do in <hi>New-England,</hi> and <hi>New-York,</hi> and get <hi>Winter</hi> Fodder for their Stock.</p>
+               <p>To conclude, I desire all my dear Country Folks, who may be inclin'd to go into those parts, to consider seriously the Premisses, as well the present inconveniencies, as future Ease and Plenty, that so none may move rashly. nor from a Fickle, but Solid Mind, having above all things an Eye to the Providence of God in the disposal of themselves: And I would further advise all such, at least to have the Permission, if not the good liking of their near Relations, for that is both Natural, and a Duty Incumbent upon all, and by this means will Natural Affection be preserved, and Friendly and Profitable Correspondence be maintained be<g ref="char:EOLhyphen"/>tween them; in all which I beseech Almighty God to direct us, that his Blessing may attend our Honest In<g ref="char:EOLhyphen"/>deavour, and then the Consequence of all our Undertaking will turn to the Glory of his great Name, and the true Happiness of us and our Posterity, <hi>Amen.</hi>
+               </p>
+               <closer>
+                  <signed>William Penn.</signed>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <head>POSTSCRIPT.</head>
+            <p>WHoever are desirous to be concern'd with me in this Province, they may be treated with, and further satisfied at <hi>Philip Ford</hi>'s in <hi>Bow-lane</hi> in <hi>Cheapside,</hi> and at <hi>Thomas Rudyard</hi>'s, or <hi>Benjamin Clark</hi>'s in <hi>George-yard</hi> in <hi>Lombard-street London.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
